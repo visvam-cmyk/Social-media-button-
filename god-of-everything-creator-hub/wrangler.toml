@@ -1,0 +1,9 @@
+name = "god-of-everything-creator-hub"
+compatibility_date = "2026-10-23"
+pages_build_output_dir = "."
+
+# For local Wrangler development, create a KV namespace and replace the placeholder ID below.
+# For a Git-connected Cloudflare Pages deployment, configure this binding in the Pages dashboard instead.
+[[kv_namespaces]]
+binding = "CREATOR_PAGES"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
