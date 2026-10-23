@@ -1,0 +1,7 @@
+name = "god-of-everything-creator-hub"
+main = "worker.js"
+compatibility_date = "2026-10-23"
+
+[[kv_namespaces]]
+binding = "CREATOR_PAGES"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
